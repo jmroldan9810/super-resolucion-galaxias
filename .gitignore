@@ -4,8 +4,6 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Archivos de datos grandes
-data/*.fits
-data/raw/
 *.npy
 *.h5
 
