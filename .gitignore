@@ -1,0 +1,13 @@
+# Python y Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Archivos de datos grandes
+data/*.fits
+data/raw/
+*.npy
+*.h5
+
+# Archivos del sistema
+.DS_Store
