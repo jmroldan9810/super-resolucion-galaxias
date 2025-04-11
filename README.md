@@ -1,5 +1,5 @@
 
-# TFM - Superresolución de Galaxias con Técnicas de Deep Learning
+# TFM - Superresolución de Galaxias con Técnicas de Redes neuronales
 
 Este repositorio contiene el desarrollo del Trabajo de Fin de Máster (TFM) para el Máster de Inteligencia Artificial en la Universidad Internacional de La Rioja (UNIR). El objetivo principal es aplicar técnicas de superresolución mediante redes neuronales profundas para mejorar la calidad de imágenes astronómicas, particularmente de galaxias.
 
