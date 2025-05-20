@@ -9,3 +9,5 @@ __pycache__/
 
 # Archivos del sistema
 .DS_Store
+
+Anaconda.bat
